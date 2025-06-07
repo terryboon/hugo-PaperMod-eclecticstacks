@@ -18,3 +18,12 @@ header.header {
 .first-entry .entry-header h1 {
     font-size: 60px;
 }
+
+a.entry-link {
+    border: solid purple 1px;
+    border-radius: 1%;
+}
+
+body {
+    background: #f8faed !important;
+}
