@@ -1,6 +1,15 @@
 header.header {
-    background-color: #5d0084;
-    background-image: url("/about/penroset2.png");
+    /* background-color: #5d0084;*/
+    background-color: #8aa0a5;
+    /* background-image: url("/about/penroset2.png"); */
+    background-image: url("/about/blind-1.jpg");
+    /* background-size: contain; */ 
+    background-repeat: no-repeat;
+    font-weight: bold !important;
+}
+
+#menu .active {
+    font-weight: bold;
 }
 
 .nav a {
